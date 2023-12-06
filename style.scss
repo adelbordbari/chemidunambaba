@@ -18,11 +18,9 @@ html {
 }
 
 body {
-  // background: $white;
-  background-color: #E0D5C1;
+  background: $ivory;
+  color: $darkGray;
   font: 18px/1.4 $helvetica;
-  // color: $darkGray;
-  color: #566569
 }
 
 .container {
@@ -256,12 +254,12 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 5px solid $crimson;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $darkGray;
     font-size: 22px;
-    font-style: italic;
-    font-family: Georgia;
+    font-style: bold italic;
+    font-family: $georgia;
   }
 
   .comments {
