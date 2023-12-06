@@ -23,6 +23,7 @@ The longer I write, the more I've enjoyed (and as a result dug deeper) the album
 5. did it change the person I am?
 
 ---
+
 ## 0. Table Of Contents
 
 * TOC
