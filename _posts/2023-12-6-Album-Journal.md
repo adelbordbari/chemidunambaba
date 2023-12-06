@@ -23,6 +23,7 @@ The longer I write, the more I've enjoyed (and as a result dug deeper) the album
 5. did it change the person I am?
 
 ---
+## 0. Table Of Contents
 
 * TOC
 {:toc}
@@ -148,7 +149,7 @@ Totally worth the time and attention, I will hear some of these songs again. I h
 
 With the second track, comes the expected piano, the title track. beautiful intro with a melancholic whistling melody. straightforward lyrics. a new form of rhyming for me:
 
-``
+```
 Verse:
 
 1===m
@@ -159,7 +160,7 @@ Verse:
 2===X
 3===p
 4===Y
-``
+```
 
 **Just The Way You Are** sounds very personal. as if he's telling a real story from his own life. it speaks of simplicity and how we usually forget to appreciate it, of how it is to want simple things, to _be the way we are_ and to be loved for it.
 
