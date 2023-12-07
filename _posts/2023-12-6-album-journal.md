@@ -162,6 +162,7 @@ huh, **Vienna**... it's very nostalgic for me, it makes me wanna cry. very stron
 > I might as well be the one
 
 **She's Always A Woman** beautiful love song, smooth and with a cool fade out. **Get It Right The First Time** sets the happier mood after a sadder song once again, something that has repeated for few times now. almost a Caribbean atmosphere, later confirmed with the instruments. well captures the rush of first impressions. the pre-chorus is interesting, "I've got to give it one good try", _it_ being the chorus and his first impression of the girl.
+
 The last track is very concert-y, with the crowds singing a repeating line. I knew it was the last song after hearing the chorus. once again, very beautiful strong lyrics. not too bright, not too sad. both optimistic, realistic, and human. beyond time and place, touches the deeper side of the listener's mind. I felt like I needed to quote many of the lines, and for good reason: they're awesome.
 
 > While in these days of quiet desperation  
