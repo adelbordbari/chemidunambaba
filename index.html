@@ -10,10 +10,12 @@ layout: default
 
       <div class="entry">
         <p>{{ post.description }}</p>
-        <p><small>{{ post.date }}</small></p>
+        <small>{{ post.release }}</small>
       </div>
 
       <strong></b><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></strong>
+
+      <hr />
     </article>
   {% endfor %}
 </div>
