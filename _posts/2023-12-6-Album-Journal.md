@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Album Journey"
+title: "Albums"
 ---
 <style>
   #cover {
@@ -12,6 +12,13 @@ title: "Album Journey"
   }
 </style>
 
+* TOC
+{:toc}
+
+---
+
+## 0. preface
+
 This is where I write briefly and/or extensively about the albums I listen to. This mostly will include the new albums I "discover" and not the more well-known pieces I've heard during past years, namely a lot of Pink Floyd, Tool, and Radiohead.
 
 The longer I write, the more I've enjoyed (and as a result dug deeper) the album. However, the general criteria for rating the albums are as follows:
@@ -21,13 +28,6 @@ The longer I write, the more I've enjoyed (and as a result dug deeper) the album
 3. was the album an artistic masterpiece? was it a technically well-crafted piece?
 4. will I remember the album? will I want to listen to it again?
 5. did it change the person I am?
-
----
-
-## 0. Table Of Contents
-
-* TOC
-{:toc}
 
 ---
 
