@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Albums"
+description: "Reviews and ratings for the albums I discover"
 ---
 <style>
   #cover {
