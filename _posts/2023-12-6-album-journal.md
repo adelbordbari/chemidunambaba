@@ -19,7 +19,7 @@ release: "2023 Dec 6"
 
 ---
 
-## 0. preface
+## Preface
 
 This is where I write briefly and/or extensively about the albums I listen to. This mostly will include the new albums I "discover" and not the more well-known pieces I've heard during past years, namely a lot of Pink Floyd, Tool, and Radiohead.
 
@@ -33,7 +33,7 @@ The longer I write, the more I've enjoyed (and as a result dug deeper) the album
 
 ---
 
-## 1. Woyaya - Osibisa (⭐️⭐️⭐️/5)
+## Woyaya - Osibisa (★★★/5)
 
 Upbeat cool West African rock. starts smoothly, moves ahead strongly, and farewells the listener with a sense of nostalgia, as if it's saying "We're going to meet again". 7 tracks, 40 minutes long. It sounds a lot like reggae, Caribbean music, and highlife.
 
@@ -47,7 +47,7 @@ It felt good, nothing too deep or fancy, very authentic, memorable, and new.
 
 ---
 
-## 2. Songs For The Deaf - Queens Of The Stone Age (⭐️⭐️⭐️/5)
+## Songs For The Deaf - Queens Of The Stone Age (★★★/5)
 
 1h 5m, 17 tracks, beautiful album cover. It's the journey of a guy on a road switching between radio stations: great idea for a concept album. A bit too American for me. No significant musicianship except for Grohl's drums; However! results in an overall recognizable sound with a solid mix.
 
@@ -93,7 +93,7 @@ I almost didn't like it, except for the few songs that sounded heavy and good fo
 
 ---
 
-## 3. The Velvet Underground & Nico - The Velvet Underground (⭐️/5)
+## The Velvet Underground & Nico - The Velvet Underground (★/5)
 
 Too avant-garde for me, has its moments but I enjoyed something like 10 minutes of it. Not really my thing, both thematically(prostitutes, sexual masochism, and heroine) or musically(long and drone-y). It was like an audible Jackson Pollock for me(yes, and not an audible Warhol).
 
@@ -132,7 +132,7 @@ I could sum up the album along these lines:
 
 ---
 
-## 4. Stranger - Billy Joel (⭐️⭐️⭐️/5)
+## Stranger - Billy Joel (★★★/5)
 
 Totally worth the time and attention, I will hear some of these songs again. I heard **Vienna** years ago and it's been my favorite since then. the whole album has that mood. a certain melancholic longing but with one's chin up. it's not a desperate break-up sadness, it's more fundamental. it's longing for love, peace, and youth. it celebrates having a dream of your own, as the last song goes:
 
