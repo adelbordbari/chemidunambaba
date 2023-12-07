@@ -2,6 +2,7 @@
 layout: post
 title: "Albums"
 description: "Reviews and ratings for the albums I discover"
+date: "2023 Dec 6"
 ---
 <style>
   #cover {
