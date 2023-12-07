@@ -7,9 +7,11 @@ layout: default
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <small>{{ post.release }}</small>
+      
       <div class="entry">
-        <p>{{ post.description }}</p>
+        <p>{{ post.description }}
+          <small>{{ post.release }}</small>
+        </p>
       </div>
 
       <strong></b><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></strong>
