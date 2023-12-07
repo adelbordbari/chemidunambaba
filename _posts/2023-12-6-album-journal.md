@@ -4,15 +4,6 @@ title: "Albums"
 description: "Reviews and ratings for the albums I discover"
 release: "2023 Dec 6"
 ---
-<style>
-  #cover {
-    width: 350px;
-    box-shadow: 3px 3px .8em gray;
-    display: block;
-    margin: auto;
-    border-radius: 3%;
-  }
-</style>
 
 * TOC
 {:toc}
@@ -150,20 +141,7 @@ Totally worth the time and attention, I will hear some of these songs again. I h
 > Who needs a house out in Hackensack  
 > Is that all you get for your money?
 
-With the second track, comes the expected piano, the title track. beautiful intro with a melancholic whistling melody. straightforward lyrics. a new form of rhyming for me:
-
-```
-Verse:
-
-1===m
-2===X
-3===n
-4===Y
-1===o
-2===X
-3===p
-4===Y
-```
+With the second track, comes the expected piano, the title track. beautiful intro with a melancholic whistling melody. straightforward lyrics. a new form of rhyming for me.
 
 **Just The Way You Are** sounds very personal. as if he's telling a real story from his own life. it speaks of simplicity and how we usually forget to appreciate it, of how it is to want simple things, to _be the way we are_ and to be loved for it.
 
