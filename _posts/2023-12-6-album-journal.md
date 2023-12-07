@@ -173,32 +173,32 @@ The last track is very concert-y, with the crowds singing a repeating line. I kn
 > I rely on my imagination  
 > And I dream of an imaginary time
 
-oh, it's two different songs, sounds familiar. it's the intro from another track that had a whistle YES ok there's the whistle. that's how the album ends: sad, hopeful, simple, intimate, nostalgic.
+oh, it's two different songs, sounds familiar. it's the intro from another track that had a whistle; yes! there's the whistle. that's how the album ends: sad, hopeful, simple, intimate, nostalgic.
 
 ---
-
-NIN - still
-long season - fishmans
-stratosphere - duster
-yeni bit gun - baris manco kurtalan ekspres
-swans - soundtrack for the world
-henry cow legend - henry cow
-black midi - hellfire
-hedningarna - kaksi
-hail the sun - wake
-santana - abraxas
-vinnie moore - the maze
-lift your skinny fists like antennas to heaven - godspeed you black emperor
-marillion - clutching at straws
-soft machine - third
-yes - close to the edge
-the stooges - fun house
-axe - crystalline
-different realities - siena root
-gong - you
-ladies and gentlement we are floating in space - spiritualized
-wings of africa - musi o tunya
-jeff rosenstock - we cool?
-los jaives - los jaives el indio
-los lobos - kiko
-junoon - azadi
+## todo
+- NIN - still
+- long season - fishmans
+- stratosphere - duster
+- yeni bit gun - baris manco kurtalan ekspres
+- swans - soundtrack for the world
+- henry cow legend - henry cow
+- black midi - hellfire
+- hedningarna - kaksi
+- hail the sun - wake
+- santana - abraxas
+- vinnie moore - the maze
+- lift your skinny fists like antennas to heaven - godspeed you black emperor
+- marillion - clutching at straws
+- soft machine - third
+- yes - close to the edge
+- the stooges - fun house
+- axe - crystalline
+- different realities - siena root
+- gong - you
+- ladies and gentlement we are floating in space - spiritualized
+- wings of africa - musi o tunya
+- jeff rosenstock - we cool?
+- los jaives - los jaives el indio
+- los lobos - kiko
+- junoon - azadi
