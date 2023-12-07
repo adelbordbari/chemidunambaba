@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+If you can see this page, you probably already know me.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+- Listen to my [playlist](https://t.me/chemidunambaba)
+- Check out the songs I make on [SoundCloud](https://soundcloud.com/thenitwit)
+- Follow me on [Letterboxd](https://letterboxd.com/adel_bordbari/)
+- or simply drop me an email using the button in the footer
