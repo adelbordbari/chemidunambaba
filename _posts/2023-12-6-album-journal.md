@@ -177,6 +177,20 @@ The last track is very concert-y, with the crowds singing a repeating line. I kn
 oh, it's two different songs, sounds familiar. it's the intro from another track that had a whistle; yes! there's the whistle. that's how the album ends: sad, hopeful, simple, intimate, nostalgic.
 
 ---
+
+## Stranger - Billy Joel (★★★/5)
+
+overall
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Thestranger1977.jpg">
+
+**09 Dec 2023**: Starts wholesome, sweet, and warm, builds up to a wall of sounds. it seems a bit overwhelming but I can trust the music, I hear _"I will love you 'til I die"_ and that's sweet enough. however, it sounds serious as well, with the medical beeping sound the second track starts.
+
+_"Little Johnny's sad and fucked"_; **Come Together** talks of a little boy who has an ape up on his neck that has to be fed. the metaphors are starting, because of the intro I'm guessing the ape is either drugs or our busy modern life. again a build-up towards a very large wall of sounds. reminds me of The Beatles' Come Together too.
+
+**I Think I'm In Love** starts very dissonant and hazy, strengthening my idea of drugs being the main theme. main reason being _"we're floating in space"_. Vocoder vocals, yup there it is: _"warm as dope"_, drugs reference. 
+
+---
+
 ## todo
 - NIN - still
 - long season - fishmans
@@ -197,7 +211,6 @@ oh, it's two different songs, sounds familiar. it's the intro from another track
 - axe - crystalline
 - different realities - siena root
 - gong - you
-- ladies and gentlement we are floating in space - spiritualized
 - wings of africa - musi o tunya
 - jeff rosenstock - we cool?
 - los jaives - los jaives el indio
