@@ -178,16 +178,17 @@ oh, it's two different songs, sounds familiar. it's the intro from another track
 
 ---
 
-## Ladies and Gentlemen We Are Floating in Space - Spiritualized (★★★/5)
+## Ladies and Gentlemen We Are Floating in Space - Spiritualized (★★★★/5)
 
 Having heard **Broken Heart** before, I expected this to be a lamenting romantic album but it was about drugs. Great sounds in it, with many brass instruments, psychedelic guitar sounds, metaphors, and great lyrics. 1h 10m in 11 tracks. not too weird but not too predictable as well. a pretty decent record that stands true to its main theme. A decent straightforward album with a beautiful cover design and a great mix. A conceptual album with a serious theme that also comes with a beautiful demonstration and depiction of the ideas. Not very phenomenal musicianship(except the orchestral which I assume is not part of the "band") but overall, a well-crafted beautiful album.
+I can't say what I don't like about it because everything's placed well. nothing feels abundant or lacking. the only slight change I'd consider would be a deeper personal deep theme, than a social pathological one. However, even at this point, it focuses more on the personal vistas of the issue. moreover, I'd have liked to see more musicianship, I felt that one was a little bit absent.
 
 <img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Spiritualized_-_Ladies_and_Gentlemen_We_Are_Floating_in_Space.png">
 
-> The album's title is from the philosophical novel Sophie's World by Jostein Gaarder, the context being:  
->    Only philosophers embark on this perilous expedition to the outermost reaches of language and existence. Some of them fall off, but others cling on desperately and yell at the people nestling deep in the snug softness, stuffing themselves with delicious food and drink. 'Ladies and Gentlemen,' they yell, 'we are floating in space!' But none of the people down there care.
-
 **09 Dec 2023**: Starts wholesome, sweet, and warm, builds up to a wall of sounds. it seems a bit overwhelming but I can trust the music, I hear _"I will love you 'til I die"_ and that's sweet enough. however, it sounds serious as well, with the medical beeping sound the second track starts.
+
+> The album's title is from the philosophical novel Sophie's World by Jostein Gaarder, the context being:  
+> Only philosophers embark on this perilous expedition to the outermost reaches of language and existence. Some of them fall off, but others cling on desperately and yell at the people nestling deep in the snug softness, stuffing themselves with delicious food and drink. 'Ladies and Gentlemen,' they yell, 'we are floating in space!' But none of the people down there care.
 
 _"Little Johnny's sad and fucked"_; **Come Together** talks of a little boy who has an ape up on his neck that has to be fed. the metaphors are starting, because of the intro I'm guessing the ape is either drugs or our busy modern life. again a build-up towards a very large wall of sounds. reminds me of The Beatles' Come Together too.
 
