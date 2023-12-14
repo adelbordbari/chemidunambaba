@@ -213,7 +213,7 @@ Next comes an anthem, **Cool Waves Wash Over Me**. I like to think that the choi
 
 ---
 
-## Untrue - Burial (0️⃣/5)
+## Untrue - Burial (❌/5)
 
 Released in 2007, 50 minutes in 13 tracks. As suggested by a friend, I almost regret listening to it. It wasn't hard to go through the album but well, nothing important or memorable either. It's like some guy in his 20s sitting down in his bedroom and making this after a week of mouse clicks and wiggling knobs.
 
@@ -268,3 +268,4 @@ overall
 <img id="cover" alt="album cover" src="cover.jpg">
 
 **00 Nov 2023**: details
+⭐️❌
