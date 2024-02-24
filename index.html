@@ -15,7 +15,8 @@ layout: default
     </ol>
   </p>
   <br /><hr /><br />
-  {% for post in site.posts %}
+  <!-- This loops through the paginated posts -->
+  {% for post in paginator.posts %}
     <article class="post">
       
       <div class="entry">
@@ -25,8 +26,26 @@ layout: default
           <small>{{ post.release }}</small>
         </p>
       </div>
-
       <strong></b><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></strong>
     </article>
   {% endfor %}
 </div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      ◀️
+    </a>
+  {% else %}
+    <span class="previous">◀️</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">▶️</a>
+  {% else %}
+    <span class="next ">▶️</span>
+  {% endif %}
+</div>  
