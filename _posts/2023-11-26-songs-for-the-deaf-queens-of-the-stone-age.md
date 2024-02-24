@@ -11,7 +11,7 @@ release: "2023 Nov 26"
 <img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png">
 
 ## Review
-Starts weirdly, with a radio, very annoying and loud. It's a concept album. **No One Knows**, the second track has an amazing riff. The album has a great mix, headbanging bass and drums. I think the album is a critic of the music industry, "songs that sound like everyone else", "so many rules, this and that, these and those"
+Starts weirdly, with a radio, very annoying and loud. It's a concept album. **No One Knows**, the second track has an amazing riff. The album has a great mix, headbanging bass and drums. I think the album is a critic of the music industry, _"songs that sound like everyone else"_, _"so many rules, this and that, these and those"_
 
 I think it could be shorter. It's very riff-based, with simple guitar rhythms (but still precise and on point) but very creative drumming, especially during the intro for Songs For The Dead, my favorite so far, super kick-ass and heavy. With tracks 4 and 5 I feel like it's about a more broad topic: the music industry.
 
