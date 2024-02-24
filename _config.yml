@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bullet Points
+name: chemidunambaba
 
 # Short bio or description (displayed in the header)
-description: rants, opinions, reviews.
+description: rants, opinions, reviews
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/13819151?u=4f840138b5a94297cd2e9105d7bec2cb1162dc64&v=4
+avatar: https://cdn.vox-cdn.com/thumbor/sC1qbMdlqZGHY-a8l_eXOPbLw_I=/0x0:700x353/1400x1400/filters:focal(350x177:351x178)/cdn1.vox-cdn.com/uploads/chorus_asset/file/7382831/ios-10-shrug-emoji.png
 
 #
 # Flags below are optional
@@ -40,7 +40,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://t.me/chemidunambaba
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -75,6 +75,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # Paginate the website
 
 # Exclude these files from your production _site
 exclude:
@@ -83,3 +84,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Personal
+## pagination gem
+paginate: 10
+paginate_path: "/page:num/"
