@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strangeways, Here We Come - The Smiths (1987)"
-description: "★★☆☆☆"
+description: "★★★☆☆"
 release: "2024 Feb 26"
 ---
 
