@@ -8,12 +8,13 @@ layout: default
     <article class="post">
       <div class="entry">
         <h3>{{ post.title }}</h3>
-        <h4>{{ post.description }}</h4>
         <p>
+          <strong>{{ post.description }}</strong>
+          <br />
           <small>{{ post.release }}</small>
         </p>
       </div>
-      <strong><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More👀</a></strong>
+      <strong><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></strong>
     </article>
   {% endfor %}
 </div>
