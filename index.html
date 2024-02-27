@@ -7,8 +7,9 @@ layout: default
   {% for post in paginator.posts %}
     <article class="post">
       <div class="entry">
-        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-        <p>{{ post.description }}
+        <p>{{ post.title }}
+          <br />
+          {{ post.description }}
           <br />
           <small>{{ post.release }}</small>
         </p>
