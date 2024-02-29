@@ -6,7 +6,8 @@ release: "2024 Feb 29"
 ---
 
 ## Preface
-Served me well as an "album". it's homogenous both in themes and in the sounds that I heard. a fusion of politics, love, and comedy with very British lyrics and 80s instrumentation. Marr's playing reminded me of Knopfler at some points, on the other hand, Morrissey's nasal, sometimes goofy singing is second to none. it's more mature than the previous album (Strangeways) I listened to. I still like to hear more from them
+Served me well as an "album". it's homogenous both in themes and in the sounds that I heard. a fusion of politics, love, and comedy with very British lyrics and 80s instrumentation. Marr's playing reminded me of Knopfler at some points, on the other hand, Morrissey's nasal, sometimes goofy singing is second to none. it's more mature than the previous album (Strangeways) I listened to. I still like to hear more from them.
+
 <img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png">
 
 ## Review
