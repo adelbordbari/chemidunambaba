@@ -20,10 +20,12 @@ $white: #fff;
 $ivory: #fffdf1;
 
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
-$ubuntu: "Ubuntu", sans-serif;
+$notoSans: "Noto Sans", sans-serif;
+$notoSerif: "Noto Serif", serif;
+// $helvetica: Helvetica, Arial, sans-serif;
+// $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $georgia: Georgia, serif;
+// $ubuntu: "Ubuntu", sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
