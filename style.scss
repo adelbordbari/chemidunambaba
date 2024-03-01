@@ -20,7 +20,7 @@ html {
 body {
   background: $isabelline;
   color: $darkGray;
-  font: 18px/1.4 $ubuntu;
+  font: 18px/1.4 $notoSans;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $georgia;
+  font-family: $notoSerif;
   color: $fadedRose;
   font-weight: bold;
 
@@ -74,7 +74,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $midnightGreen;
-    text-decoration: underline;
+    text-decoration: wavy underline;
   }
 }
 
@@ -123,8 +123,8 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $isabelline;
+  background: $midnightGreen;
 }
 ::selection {
   color: $isabelline;
@@ -195,7 +195,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $notoSerif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -214,7 +214,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $notoSerif;
   font-size: 18px;
 
   @include mobile {
@@ -260,7 +260,7 @@ nav {
     color: $black;
     font-size: 20px;
     font-style: italic;
-    font-family: $georgia;
+    font-family: $notoSerif;
   }
 
   .comments {
