@@ -46,11 +46,11 @@ I've heard and loved **River Man** for over a year. I expect great atmospheres, 
 
 it's odd how ironic **Fruit Tree** happened to be: _"Fame is but a fruit tree... It can never flourish ‘Til its stock is in the ground"_. Drake didn't get any attention during his lifetime, and became famous only when he died, and was "in the ground", _"‘Til time has flown, Far from their dying day"_. I love the strings in the third quarter, so unsettling and alarming. there's a clarinet that I like too, it sounds a bit like flamenco in the second part. this is now my other favorite song. the text is a gem, with many brilliant lines in it.
 
-> Forgotten while you’re here, Remembered for a while
-> A much-updated ruin, From a much-outdated style
-> Life is but a memory, Happened long ago
-> Theatre full of sadness, For a long-forgotten show
-> Seems so easy, Just to let it go on by
+> Forgotten while you’re here, Remembered for a while  
+> A much-updated ruin, From a much-outdated style  
+> Life is but a memory, Happened long ago  
+> Theatre full of sadness, For a long-forgotten show  
+> Seems so easy, Just to let it go on by  
 > ‘Til you stop and wonder, Why you never wondered why
 
 it ends very well too, and concludes everything. in the final verse he "calls" the fruit tree as if it's a person who he knows, he comforts the tree. the melody is reassuring and not alarming anymore, there's comfort in the hope that someday he will be appreciated. Drake committed suicide at 26.
