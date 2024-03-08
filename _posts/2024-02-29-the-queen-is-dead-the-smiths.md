@@ -6,7 +6,7 @@ release: "2024 Feb 29"
 ---
 
 ## Also From This Artist
-[Strangeways, Here We Come]({{ site.baseurl }}/strangeways-here-we-come-the-smiths/)
+- [Strangeways, Here We Come (1987)]({{ site.baseurl }}/strangeways-here-we-come-the-smiths/)
 
 ---
 
