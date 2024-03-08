@@ -8,7 +8,7 @@ release: "2024 Mar 8"
 ## Preface
 **River Man** is my favorite. **Fruit Tree** is tragic, given the artist's background. **Day Is Done** is the most poetic. Drake studied English literature and committed suicide at only 26. he was unrecognized during his lifetime, and was properly appreciated only years after he died.
 The album pretty much sounds coherent: acoustic guitars with a unique whispering vocal, upbeat piano, and an unforgettable accompanying string quartet on most songs too. nothing too serious, slightly whiney, has several references to art and poetry, and sounds a lot like Pink Floyd's early (post-Syd) albums. it's a short listen too, good enough. the lyrics are too vague but it has its moments.
-<br />
+
 <img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/5/50/Five_Leaves_Left.jpg">
 
 ## Review
