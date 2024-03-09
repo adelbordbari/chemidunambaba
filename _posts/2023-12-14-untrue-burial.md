@@ -5,12 +5,12 @@ description: "☆☆☆☆☆"
 release: "2023 Dec 14"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/64/BurialUntrue.jpg">
+
 ## Preface
 Released in 2007, 50 minutes in 13 tracks. Suggested by a friend, but I almost regret listening to it. It wasn't hard to go through the album but well, nothing important or memorable either. It's like some guy in his 20s sitting down in his bedroom and making this after a week of mouse clicks and wiggling knobs.
 
 I like to feel good about these, but they still sound unstructured and lazy to me. It's not "bad", so to say, only not significant. I can pause the music, come back an hour later, continue listening, and not feel the gap. Electronic remains a non-favorite genre for now. It's simply too lazy and improperly bundled.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/64/BurialUntrue.jpg">
 
 ## Review
 I haven't heard a lot of electronic music, very selectively and sparsely. It starts a bit weird, but the first five minutes are enough for me to connect. the ethereal strings and drum machine patterns that resemble Kid A. **Near Dark** sounds a lot like the second, but I like the melody better. it's hard for me to not think of it as lazy, but let's find out. it follows the same "form", I find the last minutes repetitive again, and a sudden fade out.

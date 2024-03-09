@@ -5,10 +5,10 @@ description: "★★☆☆☆"
 release: "2023 Dec 21"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Portishead_-_Dummy.png">
+
 ## Preface
 I didn't like it very much. 49 minutes; it's almost very simple and forgettable. I liked the same two tracks I've heard before, **Glory Box** and **Roads**; maybe **Strangers** too. it didn't have many great moments, only a few original authentic ideas. it sounds good, that's the best thing I can say.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Portishead_-_Dummy.png">
 
 ## Review
 **Mysterons** very quickly gives up the DJ turntable. the sinewave sounds like a ghost whispering throughout the lyrics, watching us from afar. Beth Gibbons sounds alarming, she's talking about a serious subject. I think it's the British Empire since there's something very British about how they sound: "_This ocean will not be grasped_", also because Mysterons were apparently a Martian race, the antagonist from a 60s TV show.

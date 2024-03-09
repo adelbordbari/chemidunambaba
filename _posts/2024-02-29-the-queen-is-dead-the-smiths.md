@@ -5,13 +5,13 @@ description: "★★★☆☆"
 release: "2024 Feb 29"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png">
+
 ## Also From This Artist
 - [Strangeways, Here We Come (1987)]({{ site.baseurl }}/strangeways-here-we-come-the-smiths/)
 
 ## Preface
 Served me well as an "album". it's homogenous both in themes and in the sounds that I heard. a fusion of politics, love, and comedy with very British lyrics and 80s instrumentation. Marr's playing reminded me of Knopfler at some points, on the other hand, Morrissey's nasal, sometimes goofy singing is second to none. it's more mature than the previous album (Strangeways) I listened to. I still like to hear more from them.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png">
 
 ## Review
 The title track, **The Queen is Dead** starts energetically, especially the drums. it's very political, clearly addressing Prince Charles and the monarchy in the UK. It sounds very modern. the effects, guitar strums, and drums sound very much like The Smiths. the flanger guitars from Marr are easily distinguishable. a bit boring at the end.

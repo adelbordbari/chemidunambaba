@@ -5,10 +5,10 @@ description: "★★★★☆"
 release: "2023 Dec 18"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/d/de/Damien_Rice_O_album_cover.jpg">
+
 ## Preface
 I've heard two songs from this album before. it does sound a bit whiny in the first glimpse but if you try to connect with it, it will not disappoint you. some really intimate and vulnerable moments in it might even make you shed a tear or two. the main theme is almost a worn-out typical heartbreak, not a lot of great guitar playing but the singing is on point, and it delivers. **Cheers Darlin'** is astounding, alongside the few others I had heard before. there are other vocalists on the album too, who (sometimes?) help. don't wait, to listen to this album, and to move on.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/d/de/Damien_Rice_O_album_cover.jpg">
 
 ## Review
 I've heard some of these tracks, specifically **The Blower's Daughter** and **Delicate**. they sound melancholic, acoustic, vulnerable, and intimate. the album starts with **Decliate**; as the name suggests it's about a fragile kind of love but this fragility is _not that we're scared, It's just that it's delicate_. it has an odd mix, the basses are very low, shaking my window! so I had to listen with EQ on. I love the strong lyrics and the final high registers with all the falsetto going on. it sounds like a very loud desperate whisper. he finally gives up, leaves his love, and stops this amazing song too.

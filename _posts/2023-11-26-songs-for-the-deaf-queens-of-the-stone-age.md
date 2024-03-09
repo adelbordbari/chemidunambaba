@@ -5,10 +5,11 @@ description: "★★★☆☆"
 release: "2023 Nov 26"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png">
+
+
 ## Preface
 1h 5m, 17 tracks, beautiful album cover. It's the journey of a guy on a road switching between radio stations: great idea for a concept album. A bit too American for me. No significant musicianship except for Grohl's drums; However! results in an overall recognizable sound with a solid mix.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png">
 
 ## Review
 Starts weirdly, with a radio, very annoying and loud. It's a concept album. **No One Knows**, the second track has an amazing riff. The album has a great mix, headbanging bass and drums. I think the album is a critic of the music industry, _"songs that sound like everyone else"_, _"so many rules, this and that, these and those"_

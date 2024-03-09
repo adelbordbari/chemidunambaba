@@ -5,14 +5,14 @@ description: "★★★☆☆"
 release: "2023 Dec 4"
 ---
 
+<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg">
+
 ## Preface
 Too avant-garde for me, has its moments but I enjoyed something like 10 minutes of it. Not really my thing, both thematically(prostitutes, sexual masochism, and heroine) or musically(long and drone-y). It was like an audible Jackson Pollock for me(yes, and not an audible Warhol).
 
 I acknowledge the role it historically played with Warhol and his "factory" but as music, I don't think I'd listen to it much in the future, except the few long-time favorites: **Venus in Furs** and **Waiting For The Man**.
 
 It is certainly new for me(and was at its time) but merely "new" isn't enough. They say "disobey" and "destroy the traditions", but that makes sense only when one creates better traditions. Destroy, yes, but only so you can build better on top of the ashes; and not for the sake of destruction itself.
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg">
 
 ## Review
 Nico sings a lot like Lou Reed, "atonal whining". 11 songs, 49 minutes, decent standard length.
