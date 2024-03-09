@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Me Without You, The Spring Without You - Touraj (2022)"
-description: "★★☆☆☆"
+rating: "★★☆☆☆"
 release: "2024 Jan 13"
+cover: https://f4.bcbits.com/img/a1379455688_16.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://f4.bcbits.com/img/a1379455688_16.jpg">
 
 ## Preface
 This album has been released in 2022, almost 50 years after its initial recording. I didn't know Touraj was a singer too, I have heard much of his composed music for other singers of course. this is a bundle of several songs, a few are very brilliant (the title track, The Garden, The Distance) and I heard multiple songs during my listen. It's a nice gesture overall, I enjoyed some moments I didn't expect too much either. The most interesting thing, in my opinion, is how bluesy/psychedelic it is while trying to maintain its Eastern roots; like much of what was recorded at the time. I like the mix, it sounds a lot like the mainstream later 60s psychedelic rock, but instead, someone sings in Farsi! the lyrics don't have much to offer except a handful of lines in the songs I mentioned above.

@@ -6,10 +6,11 @@ layout: default
   <h1 style="text-align: center;" class="info">
     {{ page.title }}
     <br />
-    <strong>{{ page.description }}</strong>
+    <strong class="rating">{{ page.rating }}</strong>
   </h1>
 
   <div class="entry">
+    <img id="cover" alt="album cover" src="{{ page.cover }}" />
     {{ content }}
   </div>
 

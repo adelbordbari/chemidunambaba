@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Dummy - Portishead (1994)"
-description: "★★☆☆☆"
+rating: "★★☆☆☆"
 release: "2023 Dec 21"
+cover: https://upload.wikimedia.org/wikipedia/en/6/6b/Portishead_-_Dummy.png
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/6b/Portishead_-_Dummy.png">
 
 ## Preface
 I didn't like it very much. 49 minutes; it's almost very simple and forgettable. I liked the same two tracks I've heard before, **Glory Box** and **Roads**; maybe **Strangers** too. it didn't have many great moments, only a few original authentic ideas. it sounds good, that's the best thing I can say.

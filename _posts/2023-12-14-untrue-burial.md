@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Untrue - Burial (2007)"
-description: "☆☆☆☆☆"
+rating: "☆☆☆☆☆"
 release: "2023 Dec 14"
+cover: https://upload.wikimedia.org/wikipedia/en/6/64/BurialUntrue.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/6/64/BurialUntrue.jpg">
 
 ## Preface
 Released in 2007, 50 minutes in 13 tracks. Suggested by a friend, but I almost regret listening to it. It wasn't hard to go through the album but well, nothing important or memorable either. It's like some guy in his 20s sitting down in his bedroom and making this after a week of mouse clicks and wiggling knobs.

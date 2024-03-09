@@ -3,37 +3,61 @@ layout: default
 ---
 
 <div class="posts">
-  <!-- This loops through the paginated posts -->
-  {% for post in paginator.posts %}
-    <article class="post">
-      <div class="entry">
-        <h3>{{ post.title }}</h3>
-        <p>
-          <strong>{{ post.description }}</strong>
-          <br />
-          <small>{{ post.release }}</small>
-        </p>
-      </div>
-      <strong><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></strong>
-    </article>
-  {% endfor %}
+	<!-- This loops through the paginated posts -->
+	{% for post in paginator.posts %}
+	<article class="post">
+		<div
+			class="entry"
+			style="display: flex; justify-content: center; align-items: center">
+			<div style="flex: 30%;;">
+				<a href="{{ site.baseurl }}{{ post.url }}"
+					><img
+						id="cover-small"
+						alt="album cover"
+						src="{{ post.cover }}"
+				/></a>
+			</div>
+			<div style="flex: 70%">
+				<h3>{{ post.title }}</h3>
+				<p>
+					<strong>{{ post.rating }}</strong>
+					<br />
+					<small>{{ post.release }}</small>
+				</p>
+				<strong
+					><a
+						href="{{ site.baseurl }}{{ post.url }}"
+						class="read-more"
+						>Read More</a
+					></strong
+				>
+			</div>
+		</div>
+	</article>
+	{% endfor %}
 </div>
 
 <!-- Pagination links -->
-<div class="pagination" style="text-align:center;">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      ◀️
-    </a>
-  {% else %}
-    <span class="previous">◀️</span>
-  {% endif %}
-  <span class="page_number ">
-    page {{ paginator.page }} / {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">▶️</a>
-  {% else %}
-    <span class="next ">▶️</span>
-  {% endif %}
+<div
+	class="pagination"
+	style="text-align: center">
+	{% if paginator.previous_page %}
+	<a
+		href="{{ paginator.previous_page_path }}"
+		class="previous">
+		◀️
+	</a>
+	{% else %}
+	<span class="previous">◀️</span>
+	{% endif %}
+	<span class="page_number"> page {{ paginator.page }} / {{ paginator.total_pages }} </span>
+	{% if paginator.next_page %}
+	<a
+		href="{{ paginator.next_page_path }}"
+		class="next"
+		>▶️</a
+	>
+	{% else %}
+	<span class="next">▶️</span>
+	{% endif %}
 </div>

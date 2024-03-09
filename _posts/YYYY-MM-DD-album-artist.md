@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Album - Artist (0000)"
-description: "★☆"
+rating: "★☆"
 release: "2023 Nov 25"
 ---
 

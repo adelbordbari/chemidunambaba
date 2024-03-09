@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Five Leaves Left - Nick Drake (1969)"
-description: "★★☆☆☆"
+rating: "★★☆☆☆"
 release: "2024 Mar 8"
+cover: https://upload.wikimedia.org/wikipedia/en/5/50/Five_Leaves_Left.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/5/50/Five_Leaves_Left.jpg">
 
 ## Preface
 **River Man** is my favorite. **Fruit Tree** is tragic, given the artist's background. **Day Is Done** is the most poetic. Drake studied English literature and committed suicide at only 26. he was unrecognized during his lifetime, and was properly appreciated only years after he died.

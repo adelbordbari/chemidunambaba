@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Ladies and Gentlemen We Are Floating in Space - Spiritualized (1997)"
-description: "★★★★☆"
+rating: "★★★★☆"
 release: "2023 Dec 9"
+cover: https://upload.wikimedia.org/wikipedia/en/b/ba/Spiritualized_-_Ladies_and_Gentlemen_We_Are_Floating_in_Space.png
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Spiritualized_-_Ladies_and_Gentlemen_We_Are_Floating_in_Space.png">
 
 ## Preface
 Having heard **Broken Heart** before, I expected this to be a lamenting romantic album but it was about drugs. Great sounds in it, with many brass instruments, psychedelic guitar sounds, metaphors, and great lyrics. 1h 10m in 11 tracks. not too weird but not too predictable as well. it stands true to its main theme all the way through. A decent straightforward album with a beautiful cover design and a great mix. A conceptual album with a serious theme that also comes with a beautiful demonstration and depiction of the ideas. no phenomenal musicianship(except the orchestral which I assume is not part of the "band") but overall, a well-crafted beautiful album.

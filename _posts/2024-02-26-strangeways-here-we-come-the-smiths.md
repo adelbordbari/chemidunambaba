@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Strangeways, Here We Come - The Smiths (1987)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2024 Feb 26"
+cover: https://upload.wikimedia.org/wikipedia/en/3/37/Smiths_-_Strangeways_here_we_come.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/3/37/Smiths_-_Strangeways_here_we_come.jpg">
 
 ## Preface
 a pretty short sweet album. not too fancy but humble and honest. sounds good, sounds a lot like The Smiths but still "new" to not be fully predictable. **A Rush and a Push and the Land Is Ours** and **Last Night I Dreamt** are perfect tracks.

@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Queen Is Dead - The Smiths (1986)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2024 Feb 29"
+cover: https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png">
 
 ## Also From This Artist
 - [Strangeways, Here We Come (1987)]({{ site.baseurl }}/strangeways-here-we-come-the-smiths/)

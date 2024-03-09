@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Stranger - Billy Joel (1977)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2023 Dec 6"
+cover: https://upload.wikimedia.org/wikipedia/en/f/f5/Thestranger1977.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/f/f5/Thestranger1977.jpg">
 
 ## Preface
 Totally worth the time and attention, I will hear some of these songs again. I heard **Vienna** years ago and it's been my favorite since then. the whole album has that mood. a certain melancholic longing but with one's chin up. it's not a desperate break-up sadness, it's more fundamental. it's longing for love, peace, and youth. it celebrates having a dream of your own, as the last song goes:

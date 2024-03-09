@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "O - Damien Rice (2002)"
-description: "★★★★☆"
+rating: "★★★★☆"
 release: "2023 Dec 18"
+cover: https://upload.wikimedia.org/wikipedia/en/d/de/Damien_Rice_O_album_cover.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/d/de/Damien_Rice_O_album_cover.jpg">
 
 ## Preface
 I've heard two songs from this album before. it does sound a bit whiny in the first glimpse but if you try to connect with it, it will not disappoint you. some really intimate and vulnerable moments in it might even make you shed a tear or two. the main theme is almost a worn-out typical heartbreak, not a lot of great guitar playing but the singing is on point, and it delivers. **Cheers Darlin'** is astounding, alongside the few others I had heard before. there are other vocalists on the album too, who (sometimes?) help. don't wait, to listen to this album, and to move on.

@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "The Velvet Underground & Nico - The Velvet Underground (1967)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2023 Dec 4"
+cover: https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg">
 
 ## Preface
 Too avant-garde for me, has its moments but I enjoyed something like 10 minutes of it. Not really my thing, both thematically(prostitutes, sexual masochism, and heroine) or musically(long and drone-y). It was like an audible Jackson Pollock for me(yes, and not an audible Warhol).

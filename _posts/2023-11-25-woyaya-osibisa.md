@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Woyaya - Osibisa (1971)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2023 Nov 25"
+cover: https://upload.wikimedia.org/wikipedia/en/c/c8/Woyayacover.jpg
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/c/c8/Woyayacover.jpg">
 
 ## Preface
 Upbeat cool West African rock. starts smoothly, moves ahead strongly, and farewells the listener with a sense of nostalgia, as if it's saying "We're going to meet again". 7 tracks, 40 minutes long. It sounds a lot like reggae, Caribbean music, and highlife.

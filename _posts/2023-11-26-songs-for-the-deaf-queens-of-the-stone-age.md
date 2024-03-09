@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Songs For The Deaf - Queens Of The Stone Age (2002)"
-description: "★★★☆☆"
+rating: "★★★☆☆"
 release: "2023 Nov 26"
+cover: https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png
 ---
-
-<img id="cover" alt="album cover" src="https://upload.wikimedia.org/wikipedia/en/0/01/Queens_of_the_Stone_Age_-_Songs_for_the_Deaf.png">
-
 
 ## Preface
 1h 5m, 17 tracks, beautiful album cover. It's the journey of a guy on a road switching between radio stations: great idea for a concept album. A bit too American for me. No significant musicianship except for Grohl's drums; However! results in an overall recognizable sound with a solid mix.
