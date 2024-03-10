@@ -71,7 +71,8 @@ p {
 a {
   color: $midnightGreen;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  font-weight: 700;
   &:hover, &:active {
     color: $midnightGreen;
     text-decoration: underline;
