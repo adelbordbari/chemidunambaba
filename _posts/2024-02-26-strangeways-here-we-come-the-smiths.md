@@ -28,5 +28,5 @@ The text is brilliant, the percussion reverb, everything fits really nicely toge
 > The story is old, I know  
 > But it goes on, and on
 
-**Unhappy Birthday** sounds funny. I like the rhythm, very proto-punk but I'm here for the sad songs and this one isn't particularly one of them. Paint A Vulgar Image is about the music industry. very straightforward. he was a fan and now he's a star and one day he will be a dead star, he's all the characters. ironic how they also have many compilations and reissues.
+**Unhappy Birthday** sounds funny. I like the rhythm, very proto-punk but I'm here for the sad songs and this one isn't particularly one of them. **Paint A Vulgar Image** is about the music industry. very straightforward. he was a fan and now he's a star and one day he will be a dead star, he's all the characters. ironic how they also have many compilations and reissues.
 **Death At One's Elbow** is very American and bluesy. features harmonica and the guitars also make him sound like Elvis. **I Won't Share You** is sweet and cute, it sounds honest and naked. the album ends with the same echo effect it started with.
