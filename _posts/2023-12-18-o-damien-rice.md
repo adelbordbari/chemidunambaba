@@ -60,7 +60,7 @@ the violins also somehow sound different! the lyrics are once again brilliant, h
 > And read me the story of O  
 > Tell it like you still believe
 
-**Cheers Darlin'** sounds very different, starts with a jazzy sax and wedding noises: chatters and salutes. with every salute he cheers his darlin' classical guitar is also new in this one. he whispers when he says "_a whisper in your ear_", the second conceptual idea I like in the album. brilliant piece. it's a lament. every line from this one is amazing so I'm not going to quote anything, except maybe this one:
+**Cheers Darlin'** sounds very different, starts with a jazzy sax and wedding noises: chatters and salutes. with every salute, he cheers his darlin'. classical guitar is also new in this one. he whispers when he says "_a whisper in your ear_", the second conceptual idea I like in the album. brilliant piece. it's a lament. every line from this one is amazing so I'm not going to quote anything, except maybe this one:
 
 > What am I darlin'?  
 > A whisper in your ear?  
