@@ -85,3 +85,11 @@ exclude:
 # Personal
 ## pagination gem
 paginate: 9
+
+collections:
+  albums:
+    output: true
+    permalink: /albums/:path/
+  films:
+    output: true
+    permalink: /films/:path/
