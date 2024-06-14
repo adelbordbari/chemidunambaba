@@ -1,5 +1,6 @@
 ---
 layout: post
+collection: films
 title: "Songs For The Deaf - Queens Of The Stone Age (2002)"
 rating: "★★★☆☆"
 release: "2023 Nov 26"
