@@ -1,5 +1,6 @@
 ---
 layout: post
+collection: albums
 title: "Woyaya - Osibisa (1971)"
 rating: "★★★☆☆"
 release: "2023 Nov 25"
